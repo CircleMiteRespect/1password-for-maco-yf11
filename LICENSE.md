@@ -1,4 +1,4 @@
-# 
+# Get the ultimate 1Password for macOS validator with custom 1Password for macOS Validator | biometric-login + credit-card-storage. Featuring biometric-login and
 
 
 
